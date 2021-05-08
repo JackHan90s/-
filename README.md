@@ -13,4 +13,8 @@ C++：
     5.C++ malloc 如何管理内存
     
     6.C++11引入的interprter
+数据库：
+    1.使用SQLite开发单机软件时，如何备份数据，SQLite的特点
+    2.   
+
     
